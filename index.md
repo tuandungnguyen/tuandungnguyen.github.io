@@ -2,6 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/tuandungnguyen/tuandungnguyen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+TEST URL https://iplay.page.link/ZCg5
+[Click here](https://iplay.page.link/ZCg5)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
