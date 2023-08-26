@@ -1,6 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tuandungnguyen/tuandungnguyen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 TEST DEEPLINK LONG
 [Click Here](https://app.alodrama.online/play?data=9IRMkOyL+nmaVxVmHdmtxL1co0E234rlXIzKBPSxZw5lNUQYfLf7PiNc0hO3hK2NA8ZW19Q7aTIjTcP6YfzYW9CuzvbDkCYmfnf7/MHm8ovOxlshDP74wrBL3T7nzy9sdEey95eGEb+JR/Sgr7EkdEVZCfXvfxC2Hh23mT2PZxUECIYBksPUsiblEfR9zQxmRoC6zHyVi6+cMSloSPT15sLox4teeVsI3ck17eDGkdHT58dd8Nnh4cL9cjsTBncl15pyGTBtve26DFHrR/6vyTI0cLmjHJgI0fX5PKc2A3Y5WSp/D5EPDX3HTZhbopOEvtuUOEGRfdbUVkSZxf9qWGTaKBrFln6irs0tLyfqpas%3D)
@@ -9,36 +6,7 @@ TEST DEEPLINK LONG
 TEST URL https://iplay.page.link/test
 [Click here](https://iplay.page.link/test)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TEST URL https://iplay.page.link/ZCg5
+[Click here](https://iplay.page.link/ZCg5)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tuandungnguyen/tuandungnguyen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
