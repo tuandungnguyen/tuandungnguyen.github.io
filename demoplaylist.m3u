@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="channel_1" tvg-logo="" group-title="Free TV",channel_1
+http://demo.4kplayer.me:80/4kplayer/4kplayer_Demo/1
+#EXTINF:-1 tvg-id="" tvg-name="channel_2" tvg-logo="" group-title="Free TV",channel_2
+http://demo.4kplayer.me:80/4kplayer/4kplayer_Demo/2
+#EXTINF:-1 tvg-id="" tvg-name="channel_3" tvg-logo="" group-title="Free TV",channel_3
+http://demo.4kplayer.me:80/4kplayer/4kplayer_Demo/3
+#EXTINF:-1 tvg-id="" tvg-name="channel_4" tvg-logo="" group-title="Free TV",channel_4
+http://demo.4kplayer.me:80/4kplayer/4kplayer_Demo/4
+#EXTINF:-1 tvg-id="" tvg-name="channel_5" tvg-logo="" group-title="Free TV",channel_5
+http://demo.4kplayer.me:80/4kplayer/4kplayer_Demo/5
+#EXTINF:-1 tvg-id="" tvg-name="Natural 4K video" tvg-logo="" group-title="Relaxing 4K video",Natural 4K video
+http://demo.4kplayer.me:80/movie/4kplayer/4kplayer_Demo/6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo2" tvg-logo="" group-title="Relaxing 4K video",demo2
+http://demo.4kplayer.me:80/movie/4kplayer/4kplayer_Demo/7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo3" tvg-logo="" group-title="Relaxing 4K video",demo3
+http://demo.4kplayer.me:80/movie/4kplayer/4kplayer_Demo/8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo4" tvg-logo="" group-title="Relaxing 4K video",demo4
+http://demo.4kplayer.me:80/movie/4kplayer/4kplayer_Demo/9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo5" tvg-logo="" group-title="Relaxing 4K video",demo5
+http://demo.4kplayer.me:80/movie/4kplayer/4kplayer_Demo/10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo1 S01 E01" tvg-logo="" group-title="demo",demo1 S01 E01
+http://demo.4kplayer.me:80/series/4kplayer/4kplayer_Demo/11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo1 S01 E02" tvg-logo="" group-title="demo",demo1 S01 E02
+http://demo.4kplayer.me:80/series/4kplayer/4kplayer_Demo/12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo1 S01 E03" tvg-logo="" group-title="demo",demo1 S01 E03
+http://demo.4kplayer.me:80/series/4kplayer/4kplayer_Demo/13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo1 S01 E04" tvg-logo="" group-title="demo",demo1 S01 E04
+http://demo.4kplayer.me:80/series/4kplayer/4kplayer_Demo/14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo1 S01 E05" tvg-logo="" group-title="demo",demo1 S01 E05
+http://demo.4kplayer.me:80/series/4kplayer/4kplayer_Demo/15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo2 S01 E01" tvg-logo="" group-title="demo",demo2 S01 E01
+http://demo.4kplayer.me:80/series/4kplayer/4kplayer_Demo/16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="demo2 S01 E02" tvg-logo="" group-title="demo",demo2 S01 E02
+http://demo.4kplayer.me:80/series/4kplayer/4kplayer_Demo/17.mp4
